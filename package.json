@@ -1,6 +1,6 @@
 {
   "name": "@kylealanjeffrey/badge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A \"built by Kyle\" badge component linking to kylejeffrey.com",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
