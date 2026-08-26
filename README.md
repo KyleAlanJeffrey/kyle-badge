@@ -1,6 +1,6 @@
 # @kylealanjeffrey/badge
 
-A "built by Kyle" badge component that links to [kylejeffrey.com](https://kylejeffrey.com). Works with any React project — no Tailwind or CSS imports needed.
+A "built by Kyle" badge component that links to [kylejeffrey.com/apps](https://kylejeffrey.com/apps). Works with any React project — no Tailwind or CSS imports needed.
 
 ## Install
 

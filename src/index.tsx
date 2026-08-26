@@ -20,7 +20,7 @@ export function KyleBadge({
 
   return (
     <a
-      href="https://kylejeffrey.com"
+      href="https://kylejeffrey.com/apps"
       target="_blank"
       rel="noopener noreferrer"
       onMouseEnter={() => setHovered(true)}

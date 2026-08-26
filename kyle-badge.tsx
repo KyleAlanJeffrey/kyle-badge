@@ -12,7 +12,7 @@ const positionClasses: Record<Position, string> = {
 export function KyleBadge({ position = "bottom-right" }: { position?: Position }) {
   return (
     <a
-      href="https://kylejeffrey.com"
+      href="https://kylejeffrey.com/apps"
       target="_blank"
       rel="noopener noreferrer"
       className={`fixed z-50 group ${positionClasses[position]}`}
